@@ -1,9 +1,3 @@
-Perfect 👍 — here’s a **sample `README.md`** you can drop into your repo as the front page.
-It explains **what the repo is**, **how to use the prompts**, and **how to contribute/version them**.
-
----
-
-```markdown
 # 🧠 AI Prompt Library
 
 A structured, version-controlled collection of prompts for AI agents.  
