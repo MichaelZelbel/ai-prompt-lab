@@ -138,10 +138,3 @@ Choose a license (MIT, Apache 2.0, CC-BY-SA, etc.) depending on how you want oth
 ---
 
 ```
-
----
-
-👉 This README sets the **tone and rules of the repo**, so you (and future collaborators) know exactly how to add, use, and maintain prompts.  
-
-Do you want me to also **mock up a first `CHANGELOG.md`** (with version `1.0.0`) so your repo feels “ready to go” from the start?
-```
