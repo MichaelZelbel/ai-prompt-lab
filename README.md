@@ -1,6 +1,6 @@
-# 🧠 AI Prompt Library
+# 🧠 AI Prompt Lab
 
-A structured, version-controlled collection of prompts for AI agents.  
+A structured, version-controlled collection of prompts for LLMs.  
 This repo is designed to store, version, and share prompts in a way that is both **human-friendly** and **machine-ready**.
 
 ---
